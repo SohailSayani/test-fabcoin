@@ -3,7 +3,7 @@
 # Why Equihash?
 
 
-we have started using Equihash as the proof-of-work for block mining in Fabcoin .
+We use Equihash as the proof-of-work for block mining in Fabcoin .
 
 Equihash is a Proof-of-Work algorithm devised by Alex Biryukov and Dmitry Khovratovich. It is based on a computer science and cryptography concept called the Generalized Birthday Problem.  https://en.wikipedia.org/wiki/Equihash
 
