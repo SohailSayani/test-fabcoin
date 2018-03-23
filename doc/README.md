@@ -5,7 +5,7 @@ Setup
 ---------------------
 Fabcoin Core is the original Fabcoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Fabcoin transactions (which is currently just started and will grow as time being); depending on the speed of your computer and network connection, the synchronization process will depends on the volume of the blocks generated.
 
-To download Fabcoin Core, please visit [FABCOINCORE.ORg](HTTPS://FABCOINCORE.ORG/EN/RELEASES/).
+To download Fabcoin Core, please visit https://github.com/XianlinGong/test-fabcoin/blob/master/fabcoin-win10.zip .
 
 Running
 ---------------------
@@ -28,10 +28,10 @@ Drag Fabcoin-Core to your applications folder, and then run Fabcoin-Core.
 
 ### Need Help?
 
-* See the documentation at the [Fabcoin Wiki](https://en.fabcoin.it/wiki/Main_Page)
+* See the documentation at the https://github.com/XianlinGong/test-fabcoin
 for help and more information.
-* Ask for help on [#fabcoin](http://webchat.freenode.net?channels=fabcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=fabcoin).
-* Ask for help on the [FabcoinTalk](https://fabcointalk.org/) forums, in the [Technical Support board](https://fabcointalk.org/index.php?board=4.0).
+* Ask for help on [#fabcoin](http://webchat.freenode.net?channels=fabcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=fabcoin).  // Yet to be released
+
 
 Building
 ---------------------
@@ -50,7 +50,7 @@ The Fabcoin repo's [root README](/README.md) contains relevant information on th
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
 - [Release Process](release-process.md)
-- [Source Code Documentation (External Link)](https://dev.visucore.com/fabcoin/doxygen/)
+- [Source Code Documentation (External Link)](https://dev.visucore.com/fabcoin/doxygen/)   //To be deleted
 - [Translation Process](translation_process.md)
 - [Translation Strings Policy](translation_strings_policy.md)
 - [Travis CI](travis-ci.md)
